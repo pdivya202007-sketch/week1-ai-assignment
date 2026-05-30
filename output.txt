@@ -1,0 +1,12 @@
+main.py output :
+
+
+PS C:\Users\pdivy\AppData\Local\Programs\Microsoft VS Code> & C:\Users\pdivy\AppData\Local\Programs\Python\Python314\python.exe c:/internship/main.py
+Enter your name : divya
+divya
+Hobbies are : 
+1.singing 2. dancing 3.sports 4.reading
+enter your choice b/w these numbers : 
+1
+singing
+PS C:\Users\pdivy\AppData\Local\Programs\Microsoft VS Code> 
